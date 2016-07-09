@@ -1,0 +1,9 @@
+# Folders and files created by the build process
+target
+*.class
+
+# Project files for IntelliJ
+.idea
+*.iml
+*.ipr
+
